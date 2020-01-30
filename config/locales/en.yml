@@ -34,3 +34,7 @@ en:
   books: 
     title: "Title"
     memo: "Memo"
+    new_book: "New Book"
+    show: "Show"
+    edit: "Edit"
+    destroy: "Destroy"

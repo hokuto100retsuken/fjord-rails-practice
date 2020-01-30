@@ -3,3 +3,7 @@ ja:
   books: 
     title: "タイトル"
     memo: "メモ"
+    new_book: "追加"
+    show: "詳細"
+    edit: "変更"
+    destroy: "削除"
