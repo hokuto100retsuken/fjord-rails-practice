@@ -1,2 +1,5 @@
 ja:
   hello: "こんにちは、世界"
+  books: 
+    title: "タイトル"
+    memo: "メモ"
