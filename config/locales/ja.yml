@@ -1,9 +1,6 @@
 ja:
   hello: "こんにちは、世界"
-  books: 
+  back: "戻る"
+  attributes:
     title: "タイトル"
     memo: "メモ"
-    new_book: "追加"
-    show: "詳細"
-    edit: "変更"
-    destroy: "削除"
