@@ -2,8 +2,6 @@
 
 class BooksController < ApplicationController
   before_action :set_book, only: [:show, :edit, :update, :destroy]
-
-  # ページ最大表示数
   PER = 2
 
   # GET /books
