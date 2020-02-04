@@ -2,7 +2,9 @@
 
 class BooksController < ApplicationController
   before_action :set_book, only: [:show, :edit, :update, :destroy]
-  PER = 2
+
+  # 表示最大数
+  PER = 10
 
   # GET /books
   # GET /books.json
