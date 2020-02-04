@@ -16,10 +16,9 @@
       <tr>
         <td><%= book.title %></td>
         <td><%= book.memo %></td>
-        <td><%= link_to t('books.show'), book_path(book) %></td>
-<!--        <td><%#= link_to t('books.edit'), edit_book_path(book) %></td>-->
+        <td><%= link_to t('books.show'), book_path(book, locale: params[:locale]) %></td>
+        <td><%= link_to t('books.edit'), edit_book_path(book, locale: params[:locale]) %></td>
 <!--        <td><%#= link_to t('books.destroy'), book, method: :delete, data: { confirm: 'Are you sure?' } %></td>-->
-        <td><%= book.id %></td>
       </tr>
     <% end %>
   </tbody>
