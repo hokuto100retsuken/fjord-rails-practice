@@ -10,12 +10,3 @@ ja:
     link: "変更"
     page_title:  "本の内容修正"
   destroy: "削除"
-
-#  new_book:
-#    link: "New Book"
-#  show:
-#    link: "Show"
-#  edit:
-#    page_title: "Editing Book"
-#    link: "Edit"
-#  destroy: "Destroy"
