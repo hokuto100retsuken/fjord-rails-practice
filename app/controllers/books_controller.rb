@@ -3,10 +3,13 @@
 class BooksController < ApplicationController
   before_action :set_book, only: [:show, :edit, :update, :destroy]
 
+  # 表示最大数
+  PER = 10
+
   # GET /books
   # GET /books.json
   def index
-    @books = Book.all
+    @books = Book.page(params[:page]).per(PER)
   end
 
   # GET /books/1
