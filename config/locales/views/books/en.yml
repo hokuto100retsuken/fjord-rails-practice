@@ -2,11 +2,11 @@ en:
   title: "Title"
   memo: "Memo"
   new_book:
-    page_title: "New Book"
     link: "New Book"
+    page_title: "New Book"
   show:
     link: "Show"
   edit:
-    page_title: "Editing Book"
     link: "Edit"
+    page_title: "Editing Book"
   destroy: "Destroy"

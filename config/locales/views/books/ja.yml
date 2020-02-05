@@ -2,8 +2,8 @@ ja:
   title: "タイトル"
   memo: "メモ"
   new_book:
-    page_title: "新規作成"
     link: "追加"
+    page_title: "新規作成"
   show:
     link: "詳細"
   edit:
