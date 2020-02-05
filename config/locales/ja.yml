@@ -1,0 +1,6 @@
+ja:
+  hello: "こんにちは、世界"
+  back: "戻る"
+  attributes:
+    title: "タイトル"
+    memo: "メモ"

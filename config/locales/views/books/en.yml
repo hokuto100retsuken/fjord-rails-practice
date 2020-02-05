@@ -1,0 +1,12 @@
+en:
+  title: "Title"
+  memo: "Memo"
+  new_book:
+    link: "New Book"
+    page_title: "New Book"
+  show:
+    link: "Show"
+  edit:
+    link: "Edit"
+    page_title: "Editing Book"
+  destroy: "Destroy"

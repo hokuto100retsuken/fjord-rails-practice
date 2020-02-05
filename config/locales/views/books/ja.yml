@@ -1,0 +1,12 @@
+ja:
+  title: "タイトル"
+  memo: "メモ"
+  new_book:
+    link: "追加"
+    page_title: "新規作成"
+  show:
+    link: "詳細"
+  edit:
+    link: "変更"
+    page_title:  "本の内容修正"
+  destroy: "削除"
